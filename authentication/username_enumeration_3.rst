@@ -40,7 +40,7 @@ Answer
 +----------+----------+
 | Username | arcsight |
 +----------+----------+
-| Psssword | qazwsx   |
+| Password | qazwsx   |
 +----------+----------+
 
 
@@ -48,4 +48,4 @@ Key points
 ##########
 
 * ``X-Forwarded-For`` can be used manipulated to trick the web application that a request has been made from a different IP address.
-  * See `here <https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Forwarded-For>`_ for details on the header and usage
+* See `here <https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Forwarded-For>`_ for details on the header and usage
