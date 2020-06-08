@@ -7,3 +7,5 @@ Authentication
 --------------
 
 * `Username enumeration via different responses <./authentication/username_enumeration_1.rst>`_
+* `Username enumeration via subtly different responses <./authentication/username_enumeration_2.rst>`_
+* `Username enumeration via response timing <./authentication/username_enumeration_3.rst>`_
