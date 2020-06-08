@@ -37,8 +37,12 @@ Determine the password
 Answer
 ######
 
-Username: arcsight
-Psssword: qazwsx
++----------|----------+
+| Username | arcsight |
++----------|----------+
+| Psssword | qazwsx   |
++----------|----------+
+
 
 Key points
 ##########
