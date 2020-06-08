@@ -6,7 +6,7 @@ Username enumeration via response timing
 Overview
 ########
 
-This is all about observing response times to figure out how a web application responds differently when valid and invalid credentials are supplied. Quite often, the response times can highight when a username is valid. This excercise also demonstrates how a web server can introduce brute force protection by checking the number of attempts made by a client.
+This is all about observing response times to figure out how a web application responds differently when valid and invalid credentials are supplied. Quite often, the response times can highlight when a username is valid. This exercise also demonstrates how a web server can introduce brute force protection by checking the number of attempts made by a client.
 
 Solution
 ########
